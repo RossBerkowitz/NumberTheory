@@ -1,0 +1,6 @@
+This repository contains some python scripts I wrote while teaching Number Theory in the Spring of 2020.
+PrimalityAndFactoring contains:
+The factoring Algorithms Pollard Rho, Pollard p-1, and a specialized Pollard Rho for factoring Fermat numbers
+Miller-Rabin and Solovay Strassen primality testing, as well as specialized Primality testing for Fermat and Mersenne numbers in LucahsLehmer and Pepin respectively.
+
+QuadraticSieve contains a mostly self contained implementation of the Quadratic Sieve algorithm.  Sage is needed to run this file.
